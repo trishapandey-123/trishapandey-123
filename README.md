@@ -1,75 +1,63 @@
-<div align="center">
-
-  <!-- Aesthetic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=220&section=header&text=Trisha%20Pandey&fontSize=48&fontAlignY=40&desc=Software%20Developer%20%7C%20CSE%20Undergrad%20%7C%20Tech%20Enthusiast&descAlignY=62&descSize=18&fontColor=ffffff" width="100%" />
-
-  <!-- Elegant Typewriter -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Welcome+to+my+creative+corner!;Building+modern+web+apps+%26+smart+tools;Exploring+algorithms%2C+data+structures+%26+AI;Passionate+about+clean+code+and+great+design." alt="Typing SVG" />
+<!-- ===================== HEADER BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Trisha%20Pandey&fontSize=48&fontColor=c0caf5&fontAlignY=36&animation=fadeIn&desc=CS%20Undergrad%20%7C%20Aspiring%20Software%20Engineer%20%26%20Full-Stack%20Developer&descSize=16&descAlignY=56" width="100%" alt="Trisha Pandey banner" />
+</p>
+<!-- ===================== TYPING SVG ===================== -->
+<p align="center">
+  <a href="https://github.com/trishapandey-123">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Building+Scalable+Web+Apps;Exploring+AI+Integrations;Competitive+Programmer" alt="Typing SVG" />
   </a>
-
-  <br/><br/>
-
-  <!-- Quick Social Badges -->
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</div>
-
-<br/>
-
-### ✨ About Me
-- 🎓 **Student & Builder:** Final phase CSE undergrad passionate about full-stack software development.
-- 💻 **What I Do:** Build dynamic web platforms, design clean user interfaces, and solve complex programmatic problems.
-- 🚀 **Currently Exploring:** Advanced system architectures, modern web frameworks, and practical AI applications.
-- 🎯 **Goals:** Contributing to open-source and developing impactful engineering solutions.
-
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=trishapandey-123&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile views" />
+</p>
 ---
-
-### 🛠️ Tech Stack
-
-**Languages**  
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
-
-**Frontend & Design**  
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-</p>
-
-**Tools & Databases**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-</p>
-
+👩‍💻 About Me
+🎓 3rd-year Computer Science undergrad on the path to becoming a Software Engineer
+🌐 I build full-stack web apps with a focus on scalability and performance
+🤖 Currently exploring AI integrations and how to bring them into real products
+🎨 Passionate about clean UI/UX architecture: good design is good engineering
+🧩 I enjoy competitive coding and sharpening my problem-solving with DSA
+💬 Ask me about React, C++, Java, or Python
+⚡ Fun fact: I believe the best code is the one you can read like a story
 ---
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trishapandey-123&show_icons=true&theme=default&hide_border=false" height="150" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishapandey-123&layout=compact&theme=default&hide_border=false" height="150" />
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>⭐️ <i>Always curious, always building. Thanks for stopping by!</i></sub>
-</div>
+🛠️ Tech Stack
+Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,js&theme=dark" alt="Languages" />
+</p>
+Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark" alt="Web Stack" />
+</p>
+Tools & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,sqlite,vscode,figma&theme=dark" alt="Tools and Databases" />
+</p>
+---
+📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=trishapandey-123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishapandey-123&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=trishapandey-123&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
+---
+🤝 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+---
+<p align="center">
+  <i>“Code with clarity, build with purpose.”</i> ✨
+</p>
+<!-- ===================== FOOTER BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" width="100%" alt="footer" />
+</p>
